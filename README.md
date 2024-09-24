@@ -140,13 +140,14 @@ In this step, I'll show you how you can store the source code of the React app o
 
  Commit the changes you made while you were following this tutorial, to the `master` branch of the local Git repository; then, push that branch up to the `master` branch of the GitHub repository.
 
-    ```shell
-    $ git init
-    $ git status 
-    $ git add .
-    $ git commit -m "Configure React app for deployment to GitHub Pages"
-    $ git push origin master
-    ```
+```shell
+ $ git init
+ $ git status 
+ $ git add .
+ $ git commit -m "Configure React app for deployment to GitHub Pages"
+ $ git push origin master
+
+```
 
  I recommend exploring the GitHub repository at this point. It will have two branches: `master` and `gh-pages`. The `master` branch will contain the React app's source code, while the `gh-pages` branch will contain the distributable version of the React app.
 
