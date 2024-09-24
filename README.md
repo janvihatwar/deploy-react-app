@@ -158,7 +158,7 @@ In this step, I'll show you how you can store the source code of the React app o
 - ***Delete Files:*** To delete a file, navigate to it and click the trash can icon. You will need to commit this change as well.
 
 
-***Great job!*** You’ve successfully deployed your React app to GitHub Pages using the react-gh-pages package. 
+**Great job!** You’ve successfully deployed your React app to GitHub Pages using the react-gh-pages package. 
 In this guide, you learned how to:
 - Create a React app and get it ready for deployment.
 - Install the necessary packages and set up your project.
